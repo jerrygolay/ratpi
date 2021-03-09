@@ -39,20 +39,6 @@ keylogger ? NO
 exploit ? NO
 yubikey MFA hacking ? NO
 
-=
-
-After all, I will say to you
-Download this OS : https://www.kali.org/downloads/
-4fter that, instal it on virtualbox or vmware
-update your virtual OS
-1nstall the legendary tool L.O.I.C
-Please, start it
-Choose a target (IP or website)
-Anyway, you will choose it
-WIN the war !
-
-
-
-
+Just Learn system, network and programming !
 
 Else you can start a course for become an E.S.D ;)
